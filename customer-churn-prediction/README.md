@@ -46,8 +46,8 @@ Accuracy is misleading here because most customers stay, so the focus is on reca
 
 ## HOW TO RUN
 ```bash
-git clone https://github.com/Albertt-Carlsonn/customer-churn-prediction.git
-cd customer-churn-prediction
+git clone https://github.com/Albertt-Carlsonn/machine-learning-portfolio.git
+cd machine-learning-portfolio/customer-churn-prediction
 pip install -r requirements.txt
 jupyter notebook churn.ipynb
 ```
