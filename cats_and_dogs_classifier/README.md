@@ -22,3 +22,10 @@ The data set includes information about:
 * The transfer learning model beat the baseline model (95% vs. 74%) and reached 94% after the first epoch, because the frozen layers already detect edges, textures, and animal features learned from ImageNet.
 * The baseline was biased toward predicting "cat". The transfer model's errors are balanced.
 * All of the 4 custom images were classified correctly, though that is too small a sample to estimate accuracy.
+
+## RESULTS
+
+| Model | Train Accuracy | Test Accuracy |
+|---|---:|---:|
+| model (baseline model) | 0.73 | 0.74 |
+| tl_model (transfer learning model) | 0.94 | 0.95 |
