@@ -12,3 +12,7 @@ The data set includes information about:
 
 ## OBJECTIVES
 
+* Create a baseline model and a transfer learning model to classify cats and dogs image dataset using PyTorch.
+* Plot a confusion matrix to analyze the two model results.
+* Compare the test accuracy of both models and determine which one has a higher accuracy.
+* Classify custom images using the best model.
