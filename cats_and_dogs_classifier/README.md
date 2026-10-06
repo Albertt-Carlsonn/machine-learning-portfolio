@@ -29,3 +29,5 @@ The data set includes information about:
 |---|---:|---:|
 | model (baseline model) | 0.73 | 0.74 |
 | tl_model (transfer learning model) | 0.94 | 0.95 |
+
+We can clearly see that the transfer learning model beats the baseline model.
