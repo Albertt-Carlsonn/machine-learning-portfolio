@@ -10,3 +10,5 @@ The data set includes information about:
 * 8010 training images
 * 2025 testing images
 
+## OBJECTIVES
+
