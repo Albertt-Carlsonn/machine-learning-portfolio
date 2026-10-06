@@ -31,3 +31,12 @@ The data set includes information about:
 | tl_model (transfer learning model) | 0.94 | 0.95 |
 
 We can clearly see that the transfer learning model beats the baseline model.
+
+## HOW TO RUN
+```bash
+git clone https://github.com/Albertt-Carlsonn/machine-learning-portfolio.git
+cd machine-learning-portfolio/cats_and_dogs_classifier
+pip install -r requirements.txt
+jupyter notebook cats_and_dogs_image_classification.ipynb
+```
+The notebook downloads the dataset from Kaggle and my custom test images (custom_images.zip) automatically.
