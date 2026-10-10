@@ -21,4 +21,4 @@ cd face-emotion-recognition
 pip install -r requirements.txt
 python main.py
 ```
-
+press the `q` key to quit.
