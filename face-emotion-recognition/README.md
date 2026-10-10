@@ -12,6 +12,7 @@ A real-time facial emotion recognition using OpenCV and a pretrained HuggingFace
 * `main.py` reads webcam frames, detects faces with a Haar cascade, crops each face, and sends it to the model.
 
 For this small project I used a pretrained model called `vit-Facial-Expression-Recognition` from HuggingFace.
+
 https://huggingface.co/mo-thecreator/vit-Facial-Expression-Recognition
 
 ### HOW TO RUN
