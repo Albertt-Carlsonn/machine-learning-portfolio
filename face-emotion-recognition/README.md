@@ -15,4 +15,10 @@ For this small project I used a pretrained model called `vit-Facial-Expression-R
 https://huggingface.co/mo-thecreator/vit-Facial-Expression-Recognition
 
 ### HOW TO RUN
+```bash
+git clone https://github.com/Albertt-Carlsonn/machine-learning-portfolio.git
+cd face-emotion-recognition
+pip install -r requirements.txt
+python main.py
+```
 
