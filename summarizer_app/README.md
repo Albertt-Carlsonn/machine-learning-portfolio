@@ -15,6 +15,9 @@ A web application that summarizes long texts or articles using Facebook's BART m
 - **Model:** `facebook/bart-large-cnn` via Hugging Face Transformers https://huggingface.co/facebook/bart-large-cnn
 - **Chunking:** LangChain `RecursiveCharacterTextSplitter` (token-based)
 
+## SCREENSHOT
+<img width="1902" height="1012" alt="Screenshot 2026-10-14 003029" src="https://github.com/user-attachments/assets/3cbb8be4-7ff3-465b-add0-d4f5ffc0702c" />
+
 ### Backend
 
 ```bash
