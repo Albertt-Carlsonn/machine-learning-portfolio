@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+transformers<5
+torch
+langchain-text-splitters
