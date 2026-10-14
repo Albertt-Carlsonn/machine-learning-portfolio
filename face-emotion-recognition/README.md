@@ -15,6 +15,9 @@ For this small project I used a pretrained model called `vit-Facial-Expression-R
 
 https://huggingface.co/mo-thecreator/vit-Facial-Expression-Recognition
 
+### DEMO
+https://github.com/user-attachments/assets/c6b0b7ed-a1af-461d-bb49-0a35b182273f
+
 ### HOW TO RUN
 ```bash
 git clone https://github.com/Albertt-Carlsonn/machine-learning-portfolio.git
